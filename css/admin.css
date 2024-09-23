@@ -1,0 +1,54 @@
+.header-admin-content {
+    background-color: rgb(106, 164, 230);
+    border: 1px solid #090;
+    color: rgb(244, 244, 248);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.header-admin-content h1 {
+    font-size: 0.9vw;
+}
+
+.admin-form-content {
+    padding: 20px 0;
+}
+
+.admin-list-table table {
+    width: 100%;
+    /* border-collapse: collapse; */
+}
+
+.admin-list-table table th {
+    font-size: 1vw;
+}
+
+.admin-list-table table th {
+    /* width: 10%; */
+    padding: 20px;
+    background-color: #ccc;
+}
+
+/* .admin-list-table table th:nth-child(2) {
+    width: 30%;
+    background-color: #ccc;
+}
+
+.admin-list-table table th:nth-child(3) {
+    width: 40%;
+    background-color: #ccc;
+}
+
+.admin-list-table table th:nth-child(4) {
+    width: 20%;
+    background-color: #ccc;
+} */
+
+.admin-list-table table td {
+    padding: 10px 20px;
+    font-size: 0.9vw;
+}
+
+.admin-list-table table tr:nth-child(odd) {
+    background-color: #ccc;
+}

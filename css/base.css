@@ -1,0 +1,35 @@
+.row {
+    float: left;
+    width: 100%;
+}
+
+.margin-bot {
+    margin-bottom: 20px;
+}
+
+.margin-bot-10 {
+    margin-bottom: 10px;
+}
+
+.margin-right {
+    margin-right: 2%;
+}
+
+.demo {
+    background-color: antiquewhite;
+    min-height: 100px;
+}
+
+.form-user-text {
+    font-size: 0.9vw;
+    font-weight: 700;
+}
+
+.form-top10-text {
+    font-size: 0.8vw;
+}
+
+
+.form-user-li {
+    font-size: 0.78vw;
+}
